@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sahil Bhetwal</h1>
-<h3 align="center">Developer | Enthusiast | Student</h3>
+<h3 align="center">Developer | Enthusiast |</h3>
 
 
 - 🌱 I’m currently learning **and exploring everything**
