@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **sahilbhetwal22@gmail.com**
 
-- ⚡ Fun fact **I only travel Nepal beacause I love my country [Note: Other countries are costly]**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sahil bhetwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil bhetwal" height="30" width="40" /></a>
